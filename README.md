@@ -1,4 +1,4 @@
-### Hi, I'm Gina 👋
+### Hi, I'm Yoonseo Yeo 👋
 Undergraduate in Applied Statistics @ Yonsei University | Exchange Student @ UCLA (2026)  
 **Research Interests:** Trustworthy & Clinical AI Evaluation, Causal Inference, Spatiotemporal & Graph Modeling
 
